@@ -1,0 +1,18 @@
+﻿  driver_parking.cpp
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(124,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(134,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(140,17): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(152,34): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(155,17): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(164,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(167,34): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(170,17): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(170,34): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(181,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(184,17): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(184,34): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(187,17): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(199,32): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(202,17): warning C4305: “=”: 从“double”到“float”截断
+E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(211,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  driver_parking.vcxproj -> E:\Document\TORCS\2023\【模板代码】driver_parking\driver_parking\Debug\driver_parking.dll

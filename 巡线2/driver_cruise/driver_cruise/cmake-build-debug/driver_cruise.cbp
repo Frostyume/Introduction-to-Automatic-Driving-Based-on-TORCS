@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="driver_cruise"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="driver_cruise">
+				<Option output="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/driver_cruise.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/."/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 driver_cruise"/>
+					<CompileFile command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="driver_cruise/fast">
+				<Option output="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/driver_cruise.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/."/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 driver_cruise/fast"/>
+					<CompileFile command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/codeblocks-20.03mingw-nosetup/MinGW/bin/mingw32-make.exe -f &quot;D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/Common_OpenCV.h">
+			<Option target="driver_cruise"/>
+		</Unit>
+		<Unit filename="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/class_Visualization.cpp">
+			<Option target="driver_cruise"/>
+		</Unit>
+		<Unit filename="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/class_Visualization.h">
+			<Option target="driver_cruise"/>
+		</Unit>
+		<Unit filename="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/driver_cruise.cpp">
+			<Option target="driver_cruise"/>
+		</Unit>
+		<Unit filename="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/driver_cruise.h">
+			<Option target="driver_cruise"/>
+		</Unit>
+		<Unit filename="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/osspec.h">
+			<Option target="driver_cruise"/>
+		</Unit>
+		<Unit filename="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/tgf.h">
+			<Option target="driver_cruise"/>
+		</Unit>
+		<Unit filename="D:/CyberTORCS_2023_V1.0/【模板代码】driver_cruise/代码+头文件+库文件/driver_cruise/driver_cruise/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

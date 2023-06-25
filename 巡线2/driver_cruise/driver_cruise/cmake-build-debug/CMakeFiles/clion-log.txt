@@ -1,0 +1,4 @@
+"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CyberTORCS_2023_V1.0/銆愭ā鏉夸唬鐮併�慸river_cruise/浠ｇ爜+澶存枃浠�+搴撴枃浠�/driver_cruise/driver_cruise/cmake-build-debug

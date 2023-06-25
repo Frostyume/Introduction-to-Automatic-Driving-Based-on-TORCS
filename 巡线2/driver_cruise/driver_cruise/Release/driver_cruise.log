@@ -1,0 +1,18 @@
+﻿  driver_cruise.cpp
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(243,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(251,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(257,60): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(259,66): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(276,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(321,17): warning C4305: “=”: 从“double”到“float”截断
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(326,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(335,17): warning C4305: “=”: 从“double”到“float”截断
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(340,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(351,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(354,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(362,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(366,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(371,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\driver_cruise\driver_cruise.cpp(378,54): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\Release\driver_cruise.lib 和对象 D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\Release\driver_cruise.exp
+  driver_cruise.vcxproj -> D:\CyberTORCS_2023_V1.0\【模板代码】driver_cruise\代码+头文件+库文件\driver_cruise\Release\driver_cruise.dll

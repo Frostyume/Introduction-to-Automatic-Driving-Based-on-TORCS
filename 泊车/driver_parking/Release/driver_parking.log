@@ -1,0 +1,22 @@
+﻿  driver_parking.cpp
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(233,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(260,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(264,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(269,28): warning C4305: “-=”: 从“double”到“float”截断
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(273,28): warning C4305: “+=”: 从“double”到“float”截断
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(298,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(299,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(388,33): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(392,33): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(396,33): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(413,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(416,26): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(431,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(441,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(455,34): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(469,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(494,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(495,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking\driver_parking.cpp(502,131): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 D:\Desktop\控制导论\【模板代码】driver_parking\Release\driver_parking.lib 和对象 D:\Desktop\控制导论\【模板代码】driver_parking\Release\driver_parking.exp
+  driver_parking.vcxproj -> D:\Desktop\控制导论\【模板代码】driver_parking\Release\driver_parking.dll

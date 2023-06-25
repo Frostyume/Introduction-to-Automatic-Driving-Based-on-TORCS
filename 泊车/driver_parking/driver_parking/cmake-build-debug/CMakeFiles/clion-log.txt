@@ -1,0 +1,4 @@
+"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\Desktop\控制导论\【模板代码】driver_parking\driver_parking
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Desktop/鎺у埗瀵艰/銆愭ā鏉夸唬鐮併�慸river_parking/driver_parking/cmake-build-debug
